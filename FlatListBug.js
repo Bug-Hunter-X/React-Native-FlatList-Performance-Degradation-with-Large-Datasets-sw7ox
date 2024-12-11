@@ -1,0 +1,1 @@
+This React Native bug occurs when using the FlatList component with a large dataset and frequently changing data.  The issue manifests as slow scrolling, jerky animations, or even crashes. This is often due to inefficient rendering or key management within the FlatList.
